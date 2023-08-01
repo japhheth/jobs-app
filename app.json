@@ -5,6 +5,23 @@
       "bundler": "metro"
     },
     "name": "react_native_jobs",
-    "slug": "react_native_jobs"
+    "slug": "react_native_jobs",
+    "extra": {
+      "eas": {
+        "projectId": "5b6bdd90-d7b3-46ff-a1b6-450ee65a6645"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/5b6bdd90-d7b3-46ff-a1b6-450ee65a6645"
+    },
+    "android": {
+      "package": "com.japhheth.react_native_jobs"
+    },
+    "ios": {
+      "bundleIdentifier": "native-app"
+    }
   }
 }
